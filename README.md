@@ -75,4 +75,4 @@ By exploring this source code, you will understand:
 
 ## Support
 
-If you find this project helpful, please consider giving it a star ⭐.
+If you find this project helpful, please consider giving it a star ⭐
