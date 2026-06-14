@@ -1,6 +1,6 @@
 {
-    "name": "mvvm_riverpod",
-    "short_name": "mvvm_riverpod",
+    "name": "mvvm_riverpod_movies_app",
+    "short_name": "mvvm_riverpod_movies_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

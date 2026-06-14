@@ -1,5 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:mvvm_riverpod/models/movies_genre.dart';
+import 'package:mvvm_riverpod_movies_app/models/movies_genre.dart';
 import '../view_models/movies/movies_provider.dart';
 
 class GenreUtils {

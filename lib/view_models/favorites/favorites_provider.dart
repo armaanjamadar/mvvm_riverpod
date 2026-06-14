@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter_riverpod/legacy.dart';
-import 'package:mvvm_riverpod/view_models/favorites/favorites_state.dart';
+import 'package:mvvm_riverpod_movies_app/view_models/favorites/favorites_state.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../models/movies_model.dart';
 

@@ -1,5 +1,5 @@
 import 'package:get_it/get_it.dart';
-import 'package:mvvm_riverpod/service/navigation_service.dart';
+import 'package:mvvm_riverpod_movies_app/service/navigation_service.dart';
 import '../repository/movies_repo.dart';
 import 'api_service.dart';
 

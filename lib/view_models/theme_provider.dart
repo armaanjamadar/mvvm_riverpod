@@ -1,5 +1,5 @@
 import 'package:flutter_riverpod/legacy.dart';
-import 'package:mvvm_riverpod/enums/theme_enums.dart';
+import 'package:mvvm_riverpod_movies_app/enums/theme_enums.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 final themeProvider = StateNotifierProvider<ThemeProvider, ThemeEnums>(

@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:mvvm_riverpod/constants/api_constants.dart';
-import 'package:mvvm_riverpod/models/movies_genre.dart';
-import 'package:mvvm_riverpod/models/movies_model.dart';
+import 'package:mvvm_riverpod_movies_app/constants/api_constants.dart';
+import 'package:mvvm_riverpod_movies_app/models/movies_genre.dart';
+import 'package:mvvm_riverpod_movies_app/models/movies_model.dart';
 
 class ApiService {
   Future<List<MovieModel>> fetchMovies({int page = 1}) async {

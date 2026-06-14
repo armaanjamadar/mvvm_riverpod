@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:mvvm_riverpod/constants/my_app_icons.dart';
-import 'package:mvvm_riverpod/screens/movie_details.dart';
+import 'package:mvvm_riverpod_movies_app/constants/my_app_icons.dart';
+import 'package:mvvm_riverpod_movies_app/screens/movie_details.dart';
 import '../../models/movies_model.dart';
 import '../../service/init_getit.dart';
 import '../../service/navigation_service.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:mvvm_riverpod/view_models/theme_provider.dart';
+import 'package:mvvm_riverpod_movies_app/view_models/theme_provider.dart';
 import '../constants/my_app_icons.dart';
 import '../enums/theme_enums.dart';
 import '../service/init_getit.dart';

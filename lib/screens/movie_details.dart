@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:mvvm_riverpod/widgets/movies/favorite_btn.dart';
+import 'package:mvvm_riverpod_movies_app/widgets/movies/favorite_btn.dart';
 import '../models/movies_model.dart';
 import '../widgets/cached_image.dart';
 import '../widgets/movies/genres_list_widget.dart';

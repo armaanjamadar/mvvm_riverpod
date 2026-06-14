@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:mvvm_riverpod/view_models/favorites/favorites_provider.dart';
+import 'package:mvvm_riverpod_movies_app/view_models/favorites/favorites_provider.dart';
 import '../../constants/my_app_icons.dart';
 import '../../models/movies_model.dart';
 
