@@ -31,7 +31,7 @@ This is a Movies App built with clean architectural principles and serves as a p
 By exploring this source code, you will understand:
 
 - ✅ How to structure a Flutter app using **MVVM architecture**.
-- ✅ How to use Riverpod **providers** effectively.
+- ✅ How to use **Riverpod** state management effectively.
 - ✅ How **ViewModels** manage application state and business logic.
 - ✅ How to keep UI code **clean** and **maintainable**.
 - ✅ How to implement the **Repository** for clean data access.
