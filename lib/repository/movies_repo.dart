@@ -1,4 +1,4 @@
-import 'package:mvvm_riverpod_movies_app/service/api_service.dart';
+import 'package:mvvm_riverpod_movies_app/services/api_service.dart';
 import '../models/movies_genre.dart';
 import '../models/movies_model.dart';
 

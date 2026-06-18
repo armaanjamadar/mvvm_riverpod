@@ -6,8 +6,8 @@ import 'package:mvvm_riverpod_movies_app/screens/splash_screen.dart';
 import 'package:mvvm_riverpod_movies_app/view_models/theme_provider.dart';
 import 'constants/my_theme_data.dart';
 import 'enums/theme_enums.dart';
-import 'service/init_getit.dart';
-import 'service/navigation_service.dart';
+import 'services/init_getit.dart';
+import 'services/navigation_service.dart';
 
 void main() {
   setupLocator(); // Initialize GetIt

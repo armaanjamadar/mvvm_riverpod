@@ -3,7 +3,7 @@ import 'package:flutter_riverpod/legacy.dart';
 import 'package:mvvm_riverpod_movies_app/repository/movies_repo.dart';
 import 'package:mvvm_riverpod_movies_app/view_models/movies/movies_state.dart';
 import '../../models/movies_model.dart';
-import '../../service/init_getit.dart';
+import '../../services/init_getit.dart';
 
 final moviesProvider = StateNotifierProvider<MoviesProvider, MoviesState>(
   (_) => MoviesProvider(),

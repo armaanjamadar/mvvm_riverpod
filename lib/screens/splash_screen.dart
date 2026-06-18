@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:mvvm_riverpod_movies_app/service/navigation_service.dart';
+import 'package:mvvm_riverpod_movies_app/services/navigation_service.dart';
 import 'package:mvvm_riverpod_movies_app/view_models/movies/movies_provider.dart';
 import 'package:mvvm_riverpod_movies_app/widgets/my_error_widget.dart';
-import '../service/init_getit.dart';
+import '../services/init_getit.dart';
 import '../view_models/favorites/favorites_provider.dart';
 import 'movies_screen.dart';
 
